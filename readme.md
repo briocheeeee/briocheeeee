@@ -9,7 +9,7 @@ github.com/briocheeeee
 ```
 ```php
 dc   $  @+osky
-srv  $  discord.gg/paperovh
+srv  $  discord.gg/x-o service
 ```
 ## 
 &zwnj;
