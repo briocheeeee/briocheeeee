@@ -22,4 +22,4 @@ srv  $  discord.gg/c-xBio
 <a href="https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web/JavaScript_basics" target="_blank" rel="noreferrer"> <img src="https://www.javascripttutoring.com/images/jslogo.png" alt="javascript" width="40" height="40"/> </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briocheeeee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://buymeacoffee.com/briocheeeee" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
