@@ -17,7 +17,9 @@ srv  $  discord.gg/x-o service
 
 <h3 align="left">Languages:</h3>
 <p align="left">
-<a href="https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web/CSS_basics" target="_blank" rel="noreferrer"> <img src="https://diu-eil.univ-lyon1.fr/bloc1/bloc1v2/WEB/img/html-css-js.png" alt="python" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/fr/docs/Learn/HTML" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/css-3-icon-1755x2048-oq1al28k.png" alt="css" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web/JavaScript_basics" target="_blank" rel="noreferrer"> <img src="https://www.javascripttutoring.com/images/jslogo.png" alt="javascript" width="40" height="40"/> </a>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briocheeeee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
