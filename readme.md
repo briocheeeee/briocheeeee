@@ -22,4 +22,4 @@ srv  $  discord.gg/c-xBio
 <a href="https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web/JavaScript_basics" target="_blank" rel="noreferrer"> <img src="https://www.javascripttutoring.com/images/jslogo.png" alt="javascript" width="40" height="40"/> </a>
 </p>
 
-<a href="https://buymeacoffee.com/briocheeeee" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 80px !important;width: 237px !important;" ></a>
+<a href="https://buymeacoffee.com/briocheeeee" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 80px !important;width: 257px !important;" ></a>
