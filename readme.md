@@ -1,4 +1,4 @@
-<a href="https://c-x.bio"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=FFFFFF&width=435&lines=C-X.bio+Service" alt="Typing SVG" /></a>
+<a href="https://discord.gg/oPoTool"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&color=FFFFFF&width=435&lines=oPo+Tool" alt="Typing SVG" /></a>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
