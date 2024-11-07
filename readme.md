@@ -15,7 +15,7 @@ github.com/briocheeeee
 ```
 ```php
 dc   $  @+osky
-srv  $  discord.gg/c-xBio
+srv  $  discord.gg/oPoTool
 ```
 ## 
 &zwnj;
