@@ -2,10 +2,10 @@
 
 <h3 align="left">Languages:</h3>
 <p align="left">
-<a href="https://developer.mozilla.org/fr/docs/Learn/HTML" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/css-3-icon-1755x2048-oq1al28k.png" alt="css" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web/JavaScript_basics" target="_blank" rel="noreferrer"> <img src="https://www.javascripttutoring.com/images/jslogo.png" alt="javascript" width="40" height="40"/> </a>
-<a href="https://discord.gg/G8s5HH3hSb" target="_blank" rel="noreferrer"> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> </a>
+<a href="https://discord.gg/oPoTool" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="40" height="40"/> </a>
+<a href="https://discord.gg/oPoTool" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/css-3-icon-1755x2048-oq1al28k.png" alt="css" width="40" height="40"/> </a>
+<a href="https://discord.gg/oPoTool" target="_blank" rel="noreferrer"> <img src="https://www.javascripttutoring.com/images/jslogo.png" alt="javascript" width="40" height="40"/> </a>
+<a href="https://discord.gg/oPoTool" target="_blank" rel="noreferrer"> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> </a>
 </p>
 
 
