@@ -1,23 +1,17 @@
-<a href="https://discord.gg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=FFFFFF&width=435&lines=Mr.Crakles" alt="Typing SVG" /></a>
-
-<h3 align="left">Languages:</h3>
-<p align="left">
-<a href="https://Forge.new" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="html" width="40" height="40"/> </a>
-<a href="https://Forge.new" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/css-3-icon-1755x2048-oq1al28k.png" alt="css" width="40" height="40"/> </a>
-<a href="https://Forge.new" target="_blank" rel="noreferrer"> <img src="https://www.javascripttutoring.com/images/jslogo.png" alt="javascript" width="40" height="40"/> </a>
-<a href="https://Forge.new" target="_blank" rel="noreferrer"> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> </a>
+<p align="center">
+    <a href="https://discord.com/users/933785709762973756"> <img align="center" src="https://files.catbox.moe/czhg48.png"/></a>
+  <br>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=briocheeeee" alt=":name" />
+  <br>
+  <br>
+  <a href="https://github.com/briocheeeee">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=plastic&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://discord.com/users/933785709762973756">
+    <img src="https://img.shields.io/badge/-Discord-black?style=plastic&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://t.me/Osky_o">
+    <img src="https://img.shields.io/badge/-Telegram-black?style=plastic&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
 </p>
-
-
-
-```powershell
-github.com/briocheeeee
-```
-```php
-dc   $  @23h22
-srv  $  discord.gg/Forge
-```
-## 
-&zwnj;
-
-<a href="https://buymeacoffee.com/briocheeeee" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 80px !important;width: 257px !important;" ></a>
