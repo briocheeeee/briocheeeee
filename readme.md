@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://discord.com/users/933785709762973756"> <img align="center" src="https://files.catbox.moe/czhg48.png"/></a>
+    <a href="https://discord.com/users/933785709762973756"> <img align="center" src="https://discord.c99.nl/widget/theme-5/933785709762973756.png"/></a>
   <br>
   <br>
   <img src="https://komarev.com/ghpvc/?username=briocheeeee" alt=":name" />
