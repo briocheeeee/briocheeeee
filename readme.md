@@ -14,4 +14,7 @@
   <a href="https://t.me/Osky_o">
     <img src="https://vilgacx.github.io/88x31/gifs/hartscorned.gif" alt="Telegram" />
   </a>
+  <a href="https://magicui.design/">
+    <img src="https://vilgacx.github.io/88x31/gifs/button-devils.gif" alt="MagicUI" />
+  </a>
 </p>
