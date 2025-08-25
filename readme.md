@@ -11,5 +11,3 @@ Skills: REACT | JS | HTML | CSS | Python
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=briocheeeee&show_icons=true&theme=radical)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=briocheeeee&theme=radical)  
-
