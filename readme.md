@@ -1,10 +1,14 @@
 <br>
 <br>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=briocheeeeeeeeeeeeeeeeeeeeeeeeeeee" alt="Typing SVG" /></a>
+  <br><br>
+  <a href="https://discord.com/users/1447305761376960522">
+    <img src="https://lanyard.cnrad.dev/api/1447305761376960522" alt="Discord Presence">
+  </a>
+  <br><br>
+
+  <img src="https://hits.sh/github.com/m2zmforever.svg?style=for-the-badge&label=Visit&color=black" alt="Visit">
 </p>
-<br>
-<br>
 <br>
 
 <p align="center">
